@@ -44,7 +44,7 @@ Follow these steps to set up the project in your local environment:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/easyshop.git
+   git clone https://github.com/iLuu02/EasyShop.git
    cd easyshop
 
    ```
