@@ -1,0 +1,28 @@
+# Flutter and Dart-specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+*.log
+*.lock
+.DS_Store
+
+# Platform-specific directories and generated files
+android/
+ios/
+macos/
+windows/
+linux/
+web/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Exclude Pods, symlinks, and any temporary or cached files
+ios/.symlinks/
+macos/.symlinks/
+**/Pods/
+web/compile-cache/
